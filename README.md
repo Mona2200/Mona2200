@@ -7,4 +7,4 @@
 
 :star2: Активно использую технологии MVC и CRUD.
 
-> Переходите в [моё резюме](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FkhilFFKcpCuiJOwQ6l4izXn%2BvKixdZ6J5jLsVGwhWbYZ6KJ9gJ3Kc7IRCOn6aRSkq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=Resume.pdf)
+> Переходите в [моё резюме](https://vk.com/doc329944012_649953105?hash=OEeeSGu1D3YRFwZ5Snc6TnPPFWQqQXfzCzNurzZlYfX&dl=kC72Cwx4EbLG0wNxU9q1uBzeKdH5DIjSrA33mwHS52k)

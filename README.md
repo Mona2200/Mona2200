@@ -7,4 +7,4 @@
 
 :star2: Активно использую технологии MVC и CRUD.
 
-> Переходите в [моё резюме на hh.ru](https://novosibirsk.hh.ru/resume/b3da37ceff092e71550039ed1f5a5150534e34)
+> Переходите в [моё резюме](https://disk.yandex.ru/i/f0TLubxDw-nlog)

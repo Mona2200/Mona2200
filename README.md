@@ -6,5 +6,3 @@
 - Работаю с базой данных через Entity Framework Core.
 
 :star2: Активно использую технологии MVC и CRUD.
-
-> Переходите в [моё резюме](https://vk.com/doc329944012_649953105?hash=OEeeSGu1D3YRFwZ5Snc6TnPPFWQqQXfzCzNurzZlYfX&dl=kC72Cwx4EbLG0wNxU9q1uBzeKdH5DIjSrA33mwHS52k)

@@ -3,6 +3,5 @@
 - Я пишу десктопные приложения на WPF.
 - Создаю серверные приложения на основе ASP.NET Core Web API с использованием технологии Rest API и MVC.
 - Занимаюсь Backend и Fullstack разработкой Web приложений на основе ASP.NET Core.
-- Работаю с базой данных через Entity Framework Core.
 
-:star2: Активно использую технологии MVC и CRUD.
+:star2: Использую технологии Docker, RabbitMq, Redis в разрабатываемых приложениях.
